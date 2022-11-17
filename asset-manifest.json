@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Food-Calorie-Counter/static/css/main.bcf34aac.chunk.css",
+    "main.js": "/Food-Calorie-Counter/static/js/main.9495e1a6.chunk.js",
+    "main.js.map": "/Food-Calorie-Counter/static/js/main.9495e1a6.chunk.js.map",
+    "runtime-main.js": "/Food-Calorie-Counter/static/js/runtime-main.b9d7675e.js",
+    "runtime-main.js.map": "/Food-Calorie-Counter/static/js/runtime-main.b9d7675e.js.map",
+    "static/js/2.1346e7fb.chunk.js": "/Food-Calorie-Counter/static/js/2.1346e7fb.chunk.js",
+    "static/js/2.1346e7fb.chunk.js.map": "/Food-Calorie-Counter/static/js/2.1346e7fb.chunk.js.map",
+    "static/js/3.4023526e.chunk.js": "/Food-Calorie-Counter/static/js/3.4023526e.chunk.js",
+    "static/js/3.4023526e.chunk.js.map": "/Food-Calorie-Counter/static/js/3.4023526e.chunk.js.map",
+    "static/js/4.474a9f7e.chunk.js": "/Food-Calorie-Counter/static/js/4.474a9f7e.chunk.js",
+    "static/js/4.474a9f7e.chunk.js.map": "/Food-Calorie-Counter/static/js/4.474a9f7e.chunk.js.map",
+    "static/js/5.fca3507f.chunk.js": "/Food-Calorie-Counter/static/js/5.fca3507f.chunk.js",
+    "static/js/5.fca3507f.chunk.js.map": "/Food-Calorie-Counter/static/js/5.fca3507f.chunk.js.map",
+    "static/js/6.49257ecd.chunk.js": "/Food-Calorie-Counter/static/js/6.49257ecd.chunk.js",
+    "static/js/6.49257ecd.chunk.js.map": "/Food-Calorie-Counter/static/js/6.49257ecd.chunk.js.map",
+    "index.html": "/Food-Calorie-Counter/index.html",
+    "static/css/main.bcf34aac.chunk.css.map": "/Food-Calorie-Counter/static/css/main.bcf34aac.chunk.css.map",
+    "static/js/2.1346e7fb.chunk.js.LICENSE.txt": "/Food-Calorie-Counter/static/js/2.1346e7fb.chunk.js.LICENSE.txt",
+    "static/js/3.4023526e.chunk.js.LICENSE.txt": "/Food-Calorie-Counter/static/js/3.4023526e.chunk.js.LICENSE.txt",
+    "static/js/4.474a9f7e.chunk.js.LICENSE.txt": "/Food-Calorie-Counter/static/js/4.474a9f7e.chunk.js.LICENSE.txt",
+    "static/js/5.fca3507f.chunk.js.LICENSE.txt": "/Food-Calorie-Counter/static/js/5.fca3507f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Food-Calorie-Counter/static/media/img-back2.7d385488.jpg",
+    "static/media/logo.90a8b115.png": "/Food-Calorie-Counter/static/media/logo.90a8b115.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9d7675e.js",
+    "static/js/2.1346e7fb.chunk.js",
+    "static/css/main.bcf34aac.chunk.css",
+    "static/js/main.9495e1a6.chunk.js"
+  ]
+}
